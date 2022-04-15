@@ -1,3 +1,7 @@
+Instalar: yarn
+Rodar: nodemon start
+
+
 Tutorial Youtube
 
 Crie uma API RESTful com Node.js e MongoDB | CRUD com Node, Express e Mongoose
