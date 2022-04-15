@@ -3,6 +3,13 @@ Instalar:
 yarn
 ```
 
+
+Add user e password no .env:
+```
+ver notion
+```
+
+
 Rodar:
 ```
 nodemon start
