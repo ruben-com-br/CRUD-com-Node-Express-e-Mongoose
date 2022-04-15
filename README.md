@@ -1,5 +1,12 @@
-Instalar: yarn
-Rodar: nodemon start
+Instalar: 
+```
+yarn
+```
+
+Rodar:
+```
+nodemon start
+```
 
 
 Tutorial Youtube
